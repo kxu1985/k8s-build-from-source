@@ -1,6 +1,3 @@
-# k8s-build-from-source
-Build K8s development environment from source code
-
 # Introduction
 This guide is to introduce setting up a <b>development environment</b> for Kubernetes (K8s)cluster on a single instance (vm). `kubeadm` is installed for deploying and managing K8s clusters. This setup has been tested on a 2-node clusters.
 
