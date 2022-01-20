@@ -133,6 +133,12 @@ NODENAME=$(hostname -s)
 - Verify by running `kubectl get po -n kube-system`
 - Verify by running `kubectl get nodes`
 
+# Automated Setup using Scripts (Optional)
+- `git clone https://github.com/kxu1985/k8s-build-from-source.git`
+- `sh k8s-build-from-source/setup_1.sh` and wait for rebooting
+- `sh k8s-build-from-source/setup_2.sh` and wait for rebooting
+- `sh k8s-build-from-source/setup_3.sh`
+- After setup you need to run `kubeadm init` by yourself on the master node. You can repeat the same setup on worker nodes.
 
 # Other references
 - https://github.com/kubernetes/kubernetes/blob/master/hack/local-up-cluster.sh
