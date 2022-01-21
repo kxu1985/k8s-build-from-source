@@ -1,5 +1,5 @@
 # Introduction
-This guide introduces setting up a <b>development environment</b> for Kubernetes (K8s) cluster on a single instance (vm). `kubeadm` is installed for deploying and managing K8s clusters. This setup has been tested on a 2-node clusters.
+This guide introduces setting up a <b>development environment</b> for Kubernetes (K8s) cluster on a single instance (vm). `kubeadm` is installed for deploying and managing K8s clusters. This setup has been tested on a 2-node cluster.
 
 # Launch a vm on AWS
 - Click 'Launch Instances' on AWS
