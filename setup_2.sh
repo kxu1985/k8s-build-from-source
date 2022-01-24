@@ -1,5 +1,5 @@
 #!/bin/bash
-  
+
 echo "Setup Part 2 started...\n"
 
 echo "Continuing configuring docker..."
