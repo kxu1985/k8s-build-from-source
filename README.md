@@ -144,3 +144,4 @@ NODENAME=$(hostname -s)
 - https://github.com/kubernetes/kubernetes/blob/master/hack/local-up-cluster.sh
 - https://developer.ibm.com/articles/setup-guide-for-kubernetes-developers/
 - https://github.com/kubernetes/kubernetes/issues/54918
+- https://devopscube.com/setup-kubernetes-cluster-kubeadm/
